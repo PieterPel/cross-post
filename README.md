@@ -37,7 +37,7 @@ npm i -g cross-post-blog
 
 ### Installation of MacOS with M1 chip
 
-For Apple M1, it's best to have Node v14.
+This project is tested with Node.js v22.
 
 There are two ways to install this package on a MacOS with M1 chip:
 
